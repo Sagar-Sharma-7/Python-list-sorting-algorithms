@@ -12,3 +12,4 @@ for i in range(0, n):
         l[i], l[min] = l[min], l[i]
         print(l)
          
+print("Sorted list: ", l)
